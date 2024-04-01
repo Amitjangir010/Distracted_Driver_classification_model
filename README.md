@@ -17,5 +17,5 @@ The dataset comprises images categorized into 10 classes, reflecting different d
 - c8: Hair and makeup
 - c9: Talking to passenger
 
-We have split the dataset into training and validation sets, ensuring equal representation of each class in both datasets. The data can be downloaded from this link (https://www.dropbox.com/s/0vyzjcqsdl6cqi2/state-farm-distracted-driver-detection.zip?dl=0).
+We have split the dataset into training and validation sets, ensuring equal representation of each class in both datasets.
 
